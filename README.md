@@ -13,8 +13,8 @@ Sou um desenvolvedor web apaixonado por PHP e tecnologia. Com experiência em cr
 ## Projetos Destacados
 
 - [Processador High PHP](link_para_projeto_1): Processador poderoso feito em PHP para melhorar o desempenho geral projetos completos.
-- [Projeto 2](link_para_projeto_2): Descrição detalhada do projeto e suas tecnologias utilizadas.
-- [Projeto 3](link_para_projeto_3): Descrição detalhada do projeto e suas tecnologias utilizadas.
+- [Framework Proprio](https://github.com/brunogustavoprado/BRFramework): Meu framework com varias funcionalidades totalmente feito em PHP.
+- [Repositorio Brazil Arc](https://github.com/brunogustavoprado/BrazilArc-Repository): Repositorio que eu mais trabalho porem é restrito para meros mortais.
 
 ## Linguagens e Ferramentas
 
