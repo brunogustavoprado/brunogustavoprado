@@ -42,6 +42,10 @@ Sou um desenvolvedor web apaixonado por PHP e tecnologia. Com experiência em cr
 ![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
+## Certificados
+
+- [Certificado Zend PHP](https://www.zend.com/en/yellow-pages/ZEND033423): Certificado de conclusão do curso Zend PHP.
+
 
 ## Estatísticas do GitHub
 
