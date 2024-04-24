@@ -44,7 +44,15 @@ Sou um desenvolvedor web apaixonado por PHP e tecnologia. Com experiência em cr
 
 ## Certificados
 
-[![Certificado Zend PHP](https://img.shields.io/badge/Certificado-Zend_PHP-blue?style=for-the-badge&logo=php)](link_para_certificado_zend_php)
+[![Certificado Zend PHP](https://img.shields.io/badge/Certificado-Zend_PHP-blue?style=for-the-badge&logo=php)](link_para_certificado_zend_php): Certificado de conclusão do curso Zend PHP.
+[![Certificado Oracle](https://img.shields.io/badge/Certificado-Oracle-red?style=for-the-badge&logo=oracle)](link_para_certificado_oracle): Certificado de conclusão do curso Oracle.
+[![Certificado Google Cloud](https://img.shields.io/badge/Certificado-Google_Cloud-yellow?style=for-the-badge&logo=google-cloud)](link_para_certificado_google_cloud): Certificado de conclusão do curso Google Cloud.
+[![Certificado AWS](https://img.shields.io/badge/Certificado-AWS-orange?style=for-the-badge&logo=amazon-aws)](link_para_certificado_aws): Certificado de conclusão do curso AWS.
+[![Certificado HTML](https://img.shields.io/badge/Certificado-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](link_para_certificado_html): Certificado de conclusão do curso de HTML.
+[![Certificado CSS](https://img.shields.io/badge/Certificado-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](link_para_certificado_css): Certificado de conclusão do curso de CSS.
+[![Certificado JavaScript](https://img.shields.io/badge/Certificado-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](link_para_certificado_javascript): Certificado de conclusão do curso de JavaScript.
+[![Certificado MySQL](https://img.shields.io/badge/Certificado-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](link_para_certificado_mysql): Certificado de conclusão do curso de MySQL.
+[![Certificado Git](https://img.shields.io/badge/Certificado-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](link_para_certificado_git): Certificado de conclusão do curso de Git.
 
 
 ## Estatísticas do GitHub
