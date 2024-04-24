@@ -44,7 +44,7 @@ Sou um desenvolvedor web apaixonado por PHP e tecnologia. Com experiência em cr
 
 ## Certificados
 
-- [Certificado Zend PHP](https://www.zend.com/en/yellow-pages/ZEND033423): Certificado de conclusão do curso Zend PHP.
+[![Certificado Zend PHP](https://img.shields.io/badge/Certificado-Zend_PHP-blue?style=for-the-badge&logo=php)](link_para_certificado_zend_php)
 
 
 ## Estatísticas do GitHub
