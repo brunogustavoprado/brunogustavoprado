@@ -42,7 +42,7 @@ Sou um desenvolvedor web apaixonado por PHP e tecnologia. Com experiência em cr
 ![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### Certificados
+## Certificados
 
  [![Certificado Zend PHP](https://img.shields.io/badge/Certificado-Zend_PHP-blue?style=for-the-badge&logo=php)](link_para_certificado_zend_php)
  [![Certificado Oracle](https://img.shields.io/badge/Certificado-Oracle-red?style=for-the-badge&logo=oracle)](link_para_certificado_oracle)
@@ -61,8 +61,6 @@ Sou um desenvolvedor web apaixonado por PHP e tecnologia. Com experiência em cr
  [![Certificado Scala](https://img.shields.io/badge/Certificado-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](link_para_certificado_scala)
  [![Certificado Perl](https://img.shields.io/badge/Certificado-Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)](link_para_certificado_perl)
  [![Certificado Shell Scripting](https://img.shields.io/badge/Certificado-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](link_para_certificado_shell_scripting)
-
-
 
 ## Estatísticas do GitHub
 
