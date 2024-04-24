@@ -4,12 +4,11 @@
 
 Sou um desenvolvedor web apaixonado por PHP e tecnologia. Com experiência em criar aplicativos da web escaláveis e de alto desempenho, estou sempre procurando aprender novas tecnologias e aprimorar minhas habilidades de programação.
 
-- 🔭 Atualmente trabalho como desenvolvedor web na <Nome da Empresa>, onde colaboro em projetos desafiadores e inovadores.
+- 🔭 Atualmente trabalho como desenvolvedor web na Brazil Arc, onde colaboro em projetos desafiadores e inovadores.
 - 🌱 Estou constantemente aprimorando meu conhecimento em arquitetura de software, boas práticas de programação e novas tendências tecnológicas.
-- 💼 Tenho experiência em desenvolvimento full-stack, com foco especial em PHP, HTML, CSS, JavaScript e MySQL.
+- 💼 Tenho experiência em desenvolvimento full-stack, com foco especial em PHP, Rest, Laravel, Postgres, HTML, CSS, JavaScript e MySQL.
 - 💬 Adoro compartilhar conhecimento e experiência com outros desenvolvedores. Se precisar de ajuda ou tiver alguma dúvida, fique à vontade para me contatar!
-- 📫 Como me alcançar: <seu-email@example.com>
-- 😄 Pronomes: Ele/dele
+- 📫 Como me alcançar: bruno@brazilarc.com.br
 
 ## Projetos Destacados
 
