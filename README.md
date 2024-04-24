@@ -28,7 +28,7 @@ Sou um desenvolvedor web apaixonado por PHP e tecnologia. Com experiência em cr
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub de <brunogustavoprado>](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)](https://github.com/seu-usuario/github-readme-stats)
+[![Estatísticas do GitHub de brunogustavoprado](https://github-readme-stats.vercel.app/api?username=brunogustavoprado&show_icons=true&theme=dark)](https://github.com/brunogustavoprado/github-readme-stats)
 
 ## Conecte-se comigo
 
