@@ -12,7 +12,7 @@ Sou um desenvolvedor web apaixonado por PHP e tecnologia. Com experiência em cr
 
 ## Projetos Destacados
 
-- [Processador High PHP](link_para_projeto_1): Processador poderoso feito em PHP para melhorar o desempenho geral projetos completos, quando as coisas apertarem só jogar no colo do processador.
+- [Processador High PHP](link_para_projeto_1): Processador poderoso feito em PHP para melhorar o desempenho geral projetos completos.
 - [Projeto 2](link_para_projeto_2): Descrição detalhada do projeto e suas tecnologias utilizadas.
 - [Projeto 3](link_para_projeto_3): Descrição detalhada do projeto e suas tecnologias utilizadas.
 
